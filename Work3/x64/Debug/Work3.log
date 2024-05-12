@@ -1,0 +1,4 @@
+﻿  Work3.cpp
+E:\Program Code\Zadachi\Work3\Work3.cpp(12,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\Program Code\Zadachi\Work3\Work3.cpp(70,9): warning C4101: matrix: неиспользованная локальная переменная
+  Work3.vcxproj -> E:\Program Code\Zadachi\Work3\x64\Debug\Work3.exe
